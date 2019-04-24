@@ -45,6 +45,7 @@ Section: Papers for 2) Methods for synthesis of programs/formulas/discrete struc
 - [ ] Learning Invariants Using Decision Trees and Implication Counterexamples (https://dl.acm.org/citation.cfm?doid=2837614.2837664)
 - [ ] Abstract Learning Frameworks for Synthesis (https://link.springer.com/content/pdf/10.1007%2F978-3-662-49674-9_10.pdf)
 - [ ] ICE: A Robust Framework for Learning Invariants (https://link.springer.com/content/pdf/10.1007%2F978-3-319-08867-9_5.pdf)
+- [ ] Learning to infer program sketches (https://arxiv.org/pdf/1902.06349.pdf)
 
 Section: Papers for 3) Optimization methods for discrete/symbolic optimization
 ----
@@ -78,7 +79,8 @@ Other useful ideas for projects
 Section 4) Non-stationary policies
 ----
 
-TODO ask Nan and Dimitrios
+TODO ask Nan and Dimitrios, how to expand action choices such that the actions are not fixed
+
 - [ ] AlphaStar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 
 
@@ -91,3 +93,7 @@ Section 6) Sparse-rewards
 ----
 
 TODO
+
+Section 7) pre-traonong RL agents
+----
+TODO, this might just be for the short term. One idea is to use human proofs and the states map to human actions as supervised data.
