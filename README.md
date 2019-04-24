@@ -1,4 +1,5 @@
 Proposal for Survey in Selection and Synthesis of formulas and programs
+----
 
 Goals
 ----
