@@ -15,10 +15,10 @@ Compression of ideas from papers
 
 When reading each paper it will be important to identify
 
-a) the problem they are solving (i.e. 1), 2) 3))
-b) the main ideas of the methods
-c) advantages and limitation of the methods
-d) ways it connect to our current projects (Coq proof synthesis and Loop Invariant Learning)
+1) the problem they are solving (i.e. 1), 2) 3))
+2) the main ideas of the methods
+3) advantages and limitation of the methods
+4) ways it connect to our current projects (Coq proof synthesis and Loop Invariant Learning)
 
 Section: Papers for 1) Methods for selection of key concepts from a library of concepts/symbols
 ----
