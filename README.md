@@ -72,3 +72,22 @@ TODOs
 - put hammers on sections/lists
 - put (Coq) Hammers on sections/lists
 
+Other useful ideas for projects
+----
+
+Section 4) Non-stationary policies
+----
+
+TODO ask Nan and Dimitrios
+- [ ] AlphaStar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+
+
+Section 5) Curriculum learning
+----
+
+TODO
+
+Section 6) Sparse-rewards
+----
+
+TODO
