@@ -1,9 +1,9 @@
-# ml_pl_fm_survey
+Proposal for Survey in Selection and Synthesis of formulas and programs
 
 Goals
 ----
 
-The goal of this will be to summarize the main contributions of methods that contribute to symboling reasoning and learning. The main two tasks to solve and have a summarize of state of the art is
+The goal of this will be to summarize the main contributions of methods that contribute to symboling reasoning, formula/program synthesis and learning in all of these domains. The main two tasks to solve and have a summarize of state of the art is
 
 1) Methods for selection of key concepts from a library of concepts/symbols
 2) Methods for synthesis of programs/formulas/discrete structures
