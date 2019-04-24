@@ -67,6 +67,8 @@ Note this list is not complete so feel free to update or add papers that have be
 - found in the AITP conference: http://aitp-conference.org/
 - https://people.mpi-sws.org/~neider/
 
+Note that papers above link to more papers. It will be useful to also read those and plan how to include them in the survey.
+
 TODOs
 ----
 
