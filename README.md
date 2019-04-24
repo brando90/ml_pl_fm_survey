@@ -65,3 +65,10 @@ Note this list is not complete so feel free to update or add papers that have be
 
 - found in the AITP conference: http://aitp-conference.org/
 - https://people.mpi-sws.org/~neider/
+
+TODOs
+----
+
+- put hammers on sections/lists
+- put (Coq) Hammers on sections/lists
+
