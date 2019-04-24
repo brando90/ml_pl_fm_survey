@@ -76,8 +76,9 @@ TODOs
 Other useful ideas for projects
 ----
 
-Section 4) Non-stationary policies
+Section 4) Non-stationary/evolving RL policies
 ----
+Since the RL mathematician will learn new concepts that it didn't know, it's policy must have a mechanism for choosing new actions that were not considered before. For this reason the policy's action space might be changing
 
 TODO ask Nan and Dimitrios, how to expand action choices such that the actions are not fixed
 
@@ -86,14 +87,18 @@ TODO ask Nan and Dimitrios, how to expand action choices such that the actions a
 
 Section 5) Curriculum learning
 ----
+Mathematics is compositional. Using this idea the agent as it learns more it should be able to have more power and solve more problems. How can we use the curriculum learning paradigm to explore this complicated learning landscape better?
 
 TODO
 
 Section 6) Sparse-rewards
 ----
+How can we have the agent learn better when the only reward is the final reward of the proof being right or wrong? Perhaps the fact it trains/learns on proofs separated by humans will be enough?
 
 TODO
 
-Section 7) pre-traonong RL agents
+Section 7) pre-training RL agents
 ----
+We probably should not start with AlphaZero sort of agent right away.
+
 TODO, this might just be for the short term. One idea is to use human proofs and the states map to human actions as supervised data.
