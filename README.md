@@ -31,7 +31,8 @@ premise selection
 
 memory networks
 - [ ] Memory Networks gi(https://arxiv.org/abs/1410.3916)
-
+- [ ] A Taxonomy for Neural Memory (https://arxiv.org/pdf/1805.00327.pdf
+)
 - [ ] Machine Learning for Instance Selection (http://matryoshka.gforge.inria.fr/pubs/ml_instance_abstract.pdf, https://www.google.com/search?q=machine+learning+for+instance+selection+in+SMT+solving&rlz=1C5CHFA_enUS741US741&oq=machine+learning+for+instance+selection+in+SMT+solving&aqs=chrome..69i57.8798j0j4&sourceid=chrome&ie=UTF-8)
 
 
@@ -57,6 +58,9 @@ TODO: papers on RL/DL composing Neural Networks
 Neural Module Networks:
 
 - [ ] Neural Module Networks (https://arxiv.org/abs/1511.02799)
+- [ ] Textually Enriched Neural Module Networks for Visual Question Answering (https://arxiv.org/abs/1809.08697)
+- [ ] Learning to Compose Neural Networks for Question Answering (https://arxiv.org/abs/1601.01705)
+- [ ] Modeling Relationships in Referential Expressions with Compositional Modular Networks (https://arxiv.org/abs/1611.09978)
 - [ ] Learning to Reason with Neural Module Networks (https://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 
 Discussion
