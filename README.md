@@ -67,6 +67,11 @@ Formal Methods techniques (ATPs, theorem proving)
 
 - [ ] E prover, Stephan Schulz. E - A Brainiac Theorem Prover. AI Commun., 15(2-3):111–126, 2002. ()
 - [ ] Clause Features for Theorem Prover Guidance (http://aitp-conference.org/2019/abstract/AITP_2019_paper_19.pdf)
+- [ ] Coq Hammer (https://github.com/lukaszcz/coqhammer)
+- [ ] Vampire: https://vprover.github.io.
+- [ ] CVC4: http://cvc4.cs.stanford.edu. CVC4 needs to be version 1.6 or later. Earlier versions do not fully support the TPTP format. It is recommended to have the better-performing GPL version of CVC4 instead of the BSD version.
+- [ ] Eprover: http://www.eprover.org.
+- [ ] Z3: https://github.com/Z3Prover/z3/releases. Note that the default version of Z3 does not support the TPTP format. You need to compile a TPTP frontend located in examples/tptp in the Z3 source package
 
 Discussion
 ----
