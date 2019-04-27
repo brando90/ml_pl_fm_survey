@@ -63,6 +63,11 @@ Neural Module Networks:
 - [ ] Modeling Relationships in Referential Expressions with Compositional Modular Networks (https://arxiv.org/abs/1611.09978)
 - [ ] Learning to Reason with Neural Module Networks (https://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 
+Formal Methods techniques (ATPs, theorem proving)
+
+- [ ] E prover, Stephan Schulz. E - A Brainiac Theorem Prover. AI Commun., 15(2-3):111–126, 2002. ()
+- [ ] Clause Features for Theorem Prover Guidance (http://aitp-conference.org/2019/abstract/AITP_2019_paper_19.pdf)
+
 Discussion
 ----
 
