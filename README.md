@@ -62,6 +62,9 @@ Neural Module Networks:
 - [ ] Learning to Compose Neural Networks for Question Answering (https://arxiv.org/abs/1601.01705)
 - [ ] Modeling Relationships in Referential Expressions with Compositional Modular Networks (https://arxiv.org/abs/1611.09978)
 - [ ] Learning to Reason with Neural Module Networks (https://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
+- [ ] Learning to Reason: End-to-End Module Networks
+for Visual Question Answering (https://arxiv.org/pdf/1704.05526.pdf)
+- [ ]  Jacob Andreas (https://people.eecs.berkeley.edu/~jda/)
 
 Formal Methods techniques (ATPs, theorem proving)
 
