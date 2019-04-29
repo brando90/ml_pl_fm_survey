@@ -102,6 +102,7 @@ Since the RL mathematician will learn new concepts that it didn't know, it's pol
 TODO ask Nan and Dimitrios, how to expand action choices such that the actions are not fixed
 
 - [ ] AlphaStar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+- [ ] Deep Reinforcement Learning in Large Discrete Action Spaces (https://arxiv.org/pdf/1512.07679.pdf)
 
 
 Section 5) Curriculum learning
