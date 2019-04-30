@@ -55,6 +55,11 @@ Section: Papers for 2) Methods for synthesis of programs/formulas/discrete struc
 - [ ] ICE: A Robust Framework for Learning Invariants (https://link.springer.com/content/pdf/10.1007%2F978-3-319-08867-9_5.pdf)
 - [ ] Learning to infer program sketches (https://arxiv.org/pdf/1902.06349.pdf)
 
+Syntax & Semantics stuff from LIP
+
+- [ ]  Neuro-Symbolic Program Synthesis (https://arxiv.org/pdf/1611.01855.pdf)
+- [ ] Grammar Variational Autoencoder (https://arxiv.org/pdf/1703.01925.pdf)
+
 Section: Papers for 3) Optimization methods for discrete/symbolic optimization
 ----
 
