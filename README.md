@@ -35,6 +35,13 @@ memory networks
 )
 - [ ] Machine Learning for Instance Selection (http://matryoshka.gforge.inria.fr/pubs/ml_instance_abstract.pdf, https://www.google.com/search?q=machine+learning+for+instance+selection+in+SMT+solving&rlz=1C5CHFA_enUS741US741&oq=machine+learning+for+instance+selection+in+SMT+solving&aqs=chrome..69i57.8798j0j4&sourceid=chrome&ie=UTF-8)
 
+Differentiable Computers
+- [ ] Nural Turing Machines (NTM),  (https://arxiv.org/pdf/1410.5401.pdf)
+- [ ] NTM RL, Reinforcement Learning Neural Turing Machines - Revised (https://arxiv.org/abs/1505.00521)
+- [ ] Implementing Neural Turing Machines (https://arxiv.org/abs/1807.08518)
+- [ ] Differentiable Neural Computers =  RNN + external memory, Adaptive Computation Time
+for Recurrent Neural Networks(https://arxiv.org/pdf/1603.08983.pdf)
+
 
 Section: Papers for 2) Methods for synthesis of programs/formulas/discrete structures
 ----
