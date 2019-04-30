@@ -57,6 +57,7 @@ Section: Papers for 2) Methods for synthesis of programs/formulas/discrete struc
 
 Syntax & Semantics stuff from LIP
 
+- [ ] Syntax-Directed Variational Autoencoder for Structured Data (https://arxiv.org/abs/1802.08786)
 - [ ]  Neuro-Symbolic Program Synthesis (https://arxiv.org/pdf/1611.01855.pdf)
 - [ ] Grammar Variational Autoencoder (https://arxiv.org/pdf/1703.01925.pdf)
 
