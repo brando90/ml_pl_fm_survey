@@ -42,6 +42,12 @@ Differentiable Computers
 - [ ] Differentiable Neural Computers =  RNN + external memory, Adaptive Computation Time
 for Recurrent Neural Networks(https://arxiv.org/pdf/1603.08983.pdf)
 
+Embeddings of symbols
+- [ ] BERT (https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+- [ ] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (https://arxiv.org/abs/1810.04805)
+- [ ] ELMO (https://allennlp.org/elmo)
+- [ ] Deep contextualized word representations (https://arxiv.org/abs/1802.05365
+)
 
 Section: Papers for 2) Methods for synthesis of programs/formulas/discrete structures
 ----
