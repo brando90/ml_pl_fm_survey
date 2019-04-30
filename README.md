@@ -66,7 +66,11 @@ Section: Papers for 3) Optimization methods for discrete/symbolic optimization
 
 TODO: papers on RL/DL composing Neural Networks
 
+Comibinatorial Optimization
 - [ ] Automatic Local Rewriting for Combinatorial Optimization (https://arxiv.org/abs/1810.00337)
+- [ ] Neural combinatorial optimization with reinforcement learning (https://arxiv.org/pdf/1611.09940.pdf)
+- [ ] Learning Combinatorial Optimization Algorithms over Graphs (https://arxiv.org/pdf/1704.01665.pdf
+)
 
 Neural Module Networks:
 
