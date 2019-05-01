@@ -145,3 +145,19 @@ Section 7) pre-training RL agents
 We probably should not start with AlphaZero sort of agent right away.
 
 TODO, this might just be for the short term. One idea is to use human proofs and the states map to human actions as supervised data.
+
+
+Section 8) Why do sampling-based-planning algorithms work
+----
+
+https://nanjiang.cs.illinois.edu/cs598project/
+https://piazza.com/class/jqwnwmgp9874lw?cid=13
+
+Sampling-based Planning Algorithms
+
+Solving large MDPs by sampling.
+- [ ] A Sparse Sampling Algorithm for Near-Optimal Planning in Large Markov Decision Processes (https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf)
+- [ ] PEGASUS: A policy search method for large MDPs and POMDPs (https://arxiv.org/pdf/1301.3878.pdf)
+- [ ] Sample complexity of policy search with known dynamics (http://papers.nips.cc/paper/2990-sample-complexity-of-policy-search-with-known-dynamics.pdf)
+- [ ] Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning (https://hal.inria.fr/hal-01389107v3/document)
+- [ ] Dual Policy Iteration (https://arxiv.org/pdf/1805.10755.pdf)
