@@ -161,3 +161,9 @@ Solving large MDPs by sampling.
 - [ ] Sample complexity of policy search with known dynamics (http://papers.nips.cc/paper/2990-sample-complexity-of-policy-search-with-known-dynamics.pdf)
 - [ ] Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning (https://hal.inria.fr/hal-01389107v3/document)
 - [ ] Dual Policy Iteration (https://arxiv.org/pdf/1805.10755.pdf)
+
+Section 9) Prepare to write a good survey paper
+-----
+
+- [ ] read online sources for writing a good survey paper
+- [ ] chat with Sanmi for guidance on this
