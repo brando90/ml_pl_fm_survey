@@ -1,0 +1,152 @@
+\documentclass{article}
+\usepackage{times,amsmath,amsthm,amsfonts,eucal,graphicx}
+
+
+\setlength{\oddsidemargin}{0.25 in}
+\setlength{\evensidemargin}{-0.25 in}
+\setlength{\topmargin}{-0.6 in}
+\setlength{\textwidth}{6.5 in}
+\setlength{\textheight}{8.5 in}
+\setlength{\headsep}{0.75 in}
+\setlength{\parindent}{0 in}
+\setlength{\parskip}{0.1 in}
+
+\newcounter{lecnum}
+\renewcommand{\thepage}{\thelecnum-\arabic{page}}
+\renewcommand{\thesection}{\thelecnum.\arabic{section}}
+\renewcommand{\theequation}{\thelecnum.\arabic{equation}}
+\renewcommand{\thefigure}{\thelecnum.\arabic{figure}}
+\renewcommand{\thetable}{\thelecnum.\arabic{table}}
+\renewcommand{\choose}[2]{{{#1}\atopwithdelims(){#2}}}
+
+\newtheorem{lemma}[theorem]{Lemma}
+
+%\newcommand{\E}[1]{\mathbb{E}}
+
+\documentclass{article}
+\usepackage{times,amsmath,amsthm,amsfonts,eucal,graphicx}
+
+
+\setlength{\oddsidemargin}{0.25 in}
+\setlength{\evensidemargin}{-0.25 in}
+\setlength{\topmargin}{-0.6 in}
+\setlength{\textwidth}{6.5 in}
+\setlength{\textheight}{8.5 in}
+\setlength{\headsep}{0.75 in}
+\setlength{\parindent}{0 in}
+\setlength{\parskip}{0.1 in}
+
+\newcounter{lecnum}
+\renewcommand{\thepage}{\thelecnum-\arabic{page}}
+\renewcommand{\thesection}{\thelecnum.\arabic{section}}
+\renewcommand{\theequation}{\thelecnum.\arabic{equation}}
+\renewcommand{\thefigure}{\thelecnum.\arabic{figure}}
+\renewcommand{\thetable}{\thelecnum.\arabic{table}}
+\renewcommand{\choose}[2]{{{#1}\atopwithdelims(){#2}}}
+
+
+\newcommand{\scribe}[4]{
+   \pagestyle{myheadings}
+   \thispagestyle{plain}
+   \newpage
+   \setcounter{lecnum}{#1}
+   \setcounter{page}{1}
+   \noindent
+   \begin{center}
+   \framebox{
+      \vbox{\vspace{2mm}
+    \hbox to 6.58in { {\bf Scribe Notes for ML4FMPL
+                        \hfill University of Illinois at Urbana-Champaign} }
+    \hbox to 6.58in { {\bf Spring 2019
+                        \hfill Acknowledgment: Brando Miranda Notes and Discussions} }
+       \vspace{4mm}
+       \hbox to 6.28in { {\Large \hfill Scribe Notes #1: #2  \hfill} }
+       \vspace{2mm}
+       \hbox to 6.28in { {\it Mentor: {\it Brando Miranda} \hfill Scribe: #3} }
+      \vspace{2mm}}
+   }
+   \end{center}
+   \markboth{Lecture #1: #2}{Lecture #1: #2}
+   \vspace*{4mm}
+}
+
+\def\beginrefs{\begin{list}%
+        {[\arabic{equation}]}{\usecounter{equation}
+         \setlength{\leftmargin}{2.0truecm}\setlength{\labelsep}{0.4truecm}%
+         \setlength{\labelwidth}{1.6truecm}}}
+\def\endrefs{\end{list}}
+\def\bibentry#1{\item[\hbox{[#1]}]}
+
+\newtheorem{theorem}{Theorem}[lecnum]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+
+\begin{document}
+\scribe{1}{TILE OF PAPER}{SCRIBERS NAME}
+
+\section{Introduction}
+
+In this section introduce:
+
+\begin{itemize}
+    \item the main ideas of work
+    \item how it relates to our central project (i.e. formal thinking via Sketching and synthesis)
+\end{itemize}
+
+\section{Novelty}
+
+What is the new idea explained clearly and concisely.
+What is new?
+
+\begin{itemize}
+    \item it could be a totally new idea
+    \item it could be a new technique
+    \item a new application
+    \item a new idea to solve classic problem
+    \item identify a new problem/question
+    \item etc. What seems most novel?
+\end{itemize}
+
+\section{Main Ideas from Paper}
+
+In this section we describe the main ideas/techniques the paper presents.
+
+\section{Connections to Related Work}
+
+This section is for explaining and outlining connections with previous work. 
+Specially to work related to other papers we might read during the summer. 
+Note that this section will most likely have to be (continuously) updated as we read more papers.
+
+This section will help to lay a mental map of how the concepts are related.
+Perhaps we can have a taxonomy or graph connecting different papers and ideas.
+
+\section{Critics of Methods}
+
+Outlining advantages and limitation of the methods.
+
+\section{Relations to Main Project Ideas}
+
+In this section we relate the main ideas of the current paper to how it connects to the real problem we are trying to solve. 
+Outline similarities and differences to our ideas.
+In the most general sense we want to understand:
+
+\begin{itemize}
+    \item how to reason and learn at higher levels of abstraction via sketching (without worrying about the details).
+    \item how to synthesize details effectively once a sketch has been laid out.
+    How to do this better with experience/data
+    \item how to use library of concepts for inference and learning. e.g.  continuous learning of symbolic concepts, querying the memory/database effectively etc.
+    \item lemma creation: how to infer (i.e. intelligently guess) formulas and lemmas.
+    \item Optimization methods for discrete/symbolic optimization
+    \item how to have a policy grow in actions space continuously. Non-stationary/evolving Reinforcement Learning (RL) policies.
+    \item How it relates to gradual continuous learning, e.g. Curriculum learning
+    \item Sparse-rewards
+\end{itemize}
+
+Note each new paper we read might not cover every idea, but try to find as many connections as possible (so that we know how it relates to the core problem we are trying to solve).
+
+\end{document}
+
+
