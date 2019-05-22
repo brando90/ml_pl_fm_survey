@@ -9,3 +9,4 @@ Techniques List
 - Auto-regressive model for a squence of parts of the action
   - p_theta(a|s) = \prod pi_theta(a^l | a^{<l}, s)
 - embed actions in continuous space
+- actions specified by a grammar (RL loop invariant paper)
