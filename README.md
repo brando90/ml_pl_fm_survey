@@ -28,6 +28,7 @@ premise selection
 - [ ] Premise Selection for Theorem Proving by Deep Graph Embedding (https://arxiv.org/abs/1709.09994)
 - [ ] ATPboost: Learning Premise Selection in Binary Setting with ATP Feedback (https://arxiv.org/abs/1802.03375)
 - [ ] Premise selection with neural networks and distributed representation of features (https://arxiv.org/abs/1807.10268)
+- [ ] Guiding Theorem Proving by Recurrent Neural Networks (https://arxiv.org/pdf/1905.07961.pdf)
 
 memory networks
 - [ ] Memory Networks gi(https://arxiv.org/abs/1410.3916)
