@@ -61,6 +61,7 @@ Section: Papers for 2) Methods for synthesis of programs/formulas/discrete struc
 - [ ] Abstract Learning Frameworks for Synthesis (https://link.springer.com/content/pdf/10.1007%2F978-3-662-49674-9_10.pdf)
 - [ ] ICE: A Robust Framework for Learning Invariants (https://link.springer.com/content/pdf/10.1007%2F978-3-319-08867-9_5.pdf)
 - [ ] Learning to infer program sketches (https://arxiv.org/pdf/1902.06349.pdf)
+- [ ] Formal proof sketches (http://www.cs.kun.nl/~freek/notes/sketches.pdf)
 
 Syntax & Semantics stuff from LIP
 
