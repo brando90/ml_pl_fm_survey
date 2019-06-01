@@ -29,6 +29,7 @@ premise selection
 - [ ] ATPboost: Learning Premise Selection in Binary Setting with ATP Feedback (https://arxiv.org/abs/1802.03375)
 - [ ] Premise selection with neural networks and distributed representation of features (https://arxiv.org/abs/1807.10268)
 - [ ] Guiding Theorem Proving by Recurrent Neural Networks (https://arxiv.org/pdf/1905.07961.pdf)
+- [ ] Premise selection for theorem proving by deep graph embedding (https://arxiv.org/abs/1709.09994)
 
 memory networks
 - [ ] Memory Networks gi(https://arxiv.org/abs/1410.3916)
@@ -49,6 +50,9 @@ Embeddings of symbols
 - [ ] ELMO (https://allennlp.org/elmo)
 - [ ] Deep contextualized word representations (https://arxiv.org/abs/1802.05365
 )
+
+Graph representations for Higher Order Logic (arpproximately a different way to embed/give meaning to symbols):
+- [ ] Relational inductive biases, deep learning, and graph networks (https://arxiv.org/pdf/1806.01261.pdf)
 
 Section: Papers for 2) Methods for synthesis of programs/formulas/discrete structures
 ----
@@ -71,6 +75,11 @@ Syntax & Semantics stuff from LIP
 - [ ] Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis (https://arxiv.org/abs/1805.04276
 )
 - [ ] RobustFill: Neural Program Learning under Noisy I/O (https://arxiv.org/pdf/1703.07469.pdf)
+
+
+- [ ] HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (https://arxiv.org/abs/1904.03241)
+- [ ] Graph Representations for Higher-Order Logic and Theorem Proving (https://arxiv.org/pdf/1905.10006.pdf)
+- [ ] Learning to Reason in Large Theories without Imitation (https://arxiv.org/pdf/1905.10501.pdf)
 
 Section: Papers for 3) Optimization methods for discrete/symbolic optimization
 ----
