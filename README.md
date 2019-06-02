@@ -76,7 +76,7 @@ Syntax & Semantics stuff from LIP
 )
 - [ ] RobustFill: Neural Program Learning under Noisy I/O (https://arxiv.org/pdf/1703.07469.pdf)
 
-- [ ] Learning to Prove Theorems via Interacting with Proof Assistants (https://arxiv.org/abs/1905.09381)
+
 - [ ] HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (https://arxiv.org/abs/1904.03241)
 - [ ] Graph Representations for Higher-Order Logic and Theorem Proving (https://arxiv.org/pdf/1905.10006.pdf)
 - [ ] Learning to Reason in Large Theories without Imitation (https://arxiv.org/pdf/1905.10501.pdf)
@@ -143,7 +143,8 @@ TODO ask Nan and Dimitrios, how to expand action choices such that the actions a
 
 - [ ] AlphaStar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 - [ ] Deep Reinforcement Learning in Large Discrete Action Spaces (https://arxiv.org/pdf/1512.07679.pdf)
-
+- [ ] Learning Compositional Neural Programs with Recursive Tree Search and Planning (https://arxiv.org/pdf/1905.12941.pdf
+)
 
 Section 5) Curriculum learning
 ----
