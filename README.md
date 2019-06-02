@@ -113,6 +113,9 @@ Formal Methods techniques (ATPs, theorem proving)
 - [ ] Eprover: http://www.eprover.org.
 - [ ] Z3: https://github.com/Z3Prover/z3/releases. Note that the default version of Z3 does not support the TPTP format. You need to compile a TPTP frontend located in examples/tptp in the Z3 source package
 
+
+- [ ] Learning to Reason with HOL4 tactics (https://arxiv.org/abs/1804.00595)
+
 Discussion
 ----
 
