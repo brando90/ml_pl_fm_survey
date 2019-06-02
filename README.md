@@ -152,6 +152,8 @@ Mathematics is compositional. Using this idea the agent as it learns more it sho
 
 TODO
 
+- [ ] Neural Programmer-Interpreters (https://arxiv.org/abs/1511.06279)
+
 Section 6) Sparse-rewards
 ----
 How can we have the agent learn better when the only reward is the final reward of the proof being right or wrong? Perhaps the fact it trains/learns on proofs separated by humans will be enough?
