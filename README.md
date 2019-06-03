@@ -45,6 +45,17 @@ Differentiable Computers
 for Recurrent Neural Networks(https://arxiv.org/pdf/1603.08983.pdf)
 
 Embeddings of symbols
+- [ ] Allamanis, M., Chanthirasegaran, P., Kohli, P., and Sutton, C. (2017). Learning continuous
+semantic representations of symbolic expressions. In Proceedings of the International Conference
+on Machine Learning (ICML).
+- [ ] Evans, R., Saxton, D., Amos, D., Kohli, P., and Grefenstette, E. (2018). Can neural networks
+understand logical entailment? In Proceedings of the International Conference on Learning
+Representations (ICLR).
+- [ ] Devlin, J., Uesato, J., Singh, R., and Kohli, P. (2017). Semantic code repair using neuro-symbolic
+transformation networks. arXiv preprint arXiv:1710.11054
+- [ ] Chen, X., Liu, C., and Song, D. (2018b). Tree-to-tree neural networks for program translation. In
+Workshops of the International Conference on Learning Representations (ICLR).
+
 - [ ] BERT (https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 - [ ] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (https://arxiv.org/abs/1810.04805)
 - [ ] ELMO (https://allennlp.org/elmo)
