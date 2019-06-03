@@ -193,7 +193,16 @@ Solving large MDPs by sampling.
 - [ ] Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning (https://hal.inria.fr/hal-01389107v3/document)
 - [ ] Dual Policy Iteration (https://arxiv.org/pdf/1805.10755.pdf)
 
-Section 9) Prepare to write a good survey paper
+Section 9) Meta-learing
+----
+
+How is Meta-learning related to all this? my guess is learning to learn via curriculum learning. Important to check literature in this direction too.
+
+- [ ] https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/
+- [ ] https://arxiv.org/abs/1703.03400
+- [ ] http://people.eecs.berkeley.edu/~cbfinn/
+
+Section 10) Prepare to write a good survey paper
 -----
 
 - [ ] read online sources for writing a good survey paper
