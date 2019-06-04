@@ -43,6 +43,7 @@ Differentiable Computers
 - [ ] Implementing Neural Turing Machines (https://arxiv.org/abs/1807.08518)
 - [ ] Differentiable Neural Computers =  RNN + external memory, Adaptive Computation Time
 for Recurrent Neural Networks(https://arxiv.org/pdf/1603.08983.pdf)
+- [ ] Neural Programmer (https://distill.pub/2016/augmented-rnns/?nsukey=D6xGO%2F6W0UCGXFGbzvaVZVPD1FlXd2Es%2BZe%2Bf8lMLDtd7lhGqbcgsLpc8JS7pEztig9AdXxj0%2FdaoI2%2FLzsWZzFhtpesLCf25CuVq%2Bkv%2Ftk2m1BGEroLX9HffuXPqb5Wdw%2BagXhAeUF3LW5NOk59TzAZy5VtGHQ4Up%2BykSMewIs%3D#neural-programmer)
 
 Embeddings of symbols
 - [ ] Allamanis, M., Chanthirasegaran, P., Kohli, P., and Sutton, C. (2017). Learning continuous
