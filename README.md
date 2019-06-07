@@ -158,7 +158,7 @@ TODO ask Nan and Dimitrios, how to expand action choices such that the actions a
 - [ ] Learning Compositional Neural Programs with Recursive Tree Search and Planning (https://arxiv.org/pdf/1905.12941.pdf
 )
 
-Section 5) Curriculum learning
+Section 5) Curriculum learning/Incremental learning
 ----
 Mathematics is compositional. Using this idea the agent as it learns more it should be able to have more power and solve more problems. How can we use the curriculum learning paradigm to explore this complicated learning landscape better?
 
@@ -166,6 +166,8 @@ TODO
 
 - [ ] Neural Programmer-Interpreters (https://arxiv.org/abs/1511.06279)
 - [ ] Continual Lifelong Learning with Neural Networks: A Review (https://arxiv.org/abs/1802.07569)
+- [ ] Tree-CNN: A Hierarchical Deep Convolutional Neural Network for Incremental Learning (https://arxiv.org/pdf/1802.05800.pdf)
+- [ ] INCREMENTAL LEARNING IN DEEP CONVOLUTIONAL NEURAL NETWORKS USING PARTIAL NETWORK SHARING (https://arxiv.org/pdf/1712.02719.pdf)
 
 Section 6) Sparse-rewards
 ----
