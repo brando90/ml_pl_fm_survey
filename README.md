@@ -92,6 +92,7 @@ Syntax & Semantics stuff from LIP
 - [ ] HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (https://arxiv.org/abs/1904.03241)
 - [ ] Graph Representations for Higher-Order Logic and Theorem Proving (https://arxiv.org/pdf/1905.10006.pdf)
 - [ ] Learning to Reason in Large Theories without Imitation (https://arxiv.org/pdf/1905.10501.pdf)
+- [ ] Learning to Prove Theorems via Interacting with Proof Assistants (https://arxiv.org/pdf/1905.09381.pdf)
 
 Section: Papers for 3) Optimization methods for discrete/symbolic optimization
 ----
