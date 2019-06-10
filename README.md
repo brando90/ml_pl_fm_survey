@@ -87,7 +87,7 @@ Syntax & Semantics stuff from LIP
 - [ ] Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis (https://arxiv.org/abs/1805.04276
 )
 - [ ] RobustFill: Neural Program Learning under Noisy I/O (https://arxiv.org/pdf/1703.07469.pdf)
-
+- [ ] A syntactic neural model for general-purpose code generation (https://arxiv.org/pdf/1704.01696.pdf)
 
 - [ ] HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (https://arxiv.org/abs/1904.03241)
 - [ ] Graph Representations for Higher-Order Logic and Theorem Proving (https://arxiv.org/pdf/1905.10006.pdf)
