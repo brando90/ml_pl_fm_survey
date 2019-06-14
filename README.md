@@ -94,6 +94,10 @@ Syntax & Semantics stuff from LIP
 - [ ] Learning to Reason in Large Theories without Imitation (https://arxiv.org/pdf/1905.10501.pdf)
 - [ ] Learning to Prove Theorems via Interacting with Proof Assistants (https://arxiv.org/pdf/1905.09381.pdf)
 
+Compositionality
+
+- [ ] Compositional generalization through meta sequence-to-sequence learning (https://arxiv.org/abs/1906.05381)
+
 Section: Papers for 3) Optimization methods for discrete/symbolic optimization
 ----
 
