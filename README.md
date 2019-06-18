@@ -169,6 +169,7 @@ Mathematics is compositional. Using this idea the agent as it learns more it sho
 
 TODO
 
+- [ ] LEARNING TO EXECUTE ()
 - [ ] Neural Programmer-Interpreters (https://arxiv.org/abs/1511.06279)
 - [ ] Continual Lifelong Learning with Neural Networks: A Review (https://arxiv.org/abs/1802.07569)
 - [ ] Tree-CNN: A Hierarchical Deep Convolutional Neural Network for Incremental Learning (https://arxiv.org/pdf/1802.05800.pdf)
