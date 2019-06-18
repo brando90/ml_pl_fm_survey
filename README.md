@@ -173,6 +173,7 @@ TODO
 - [ ] Continual Lifelong Learning with Neural Networks: A Review (https://arxiv.org/abs/1802.07569)
 - [ ] Tree-CNN: A Hierarchical Deep Convolutional Neural Network for Incremental Learning (https://arxiv.org/pdf/1802.05800.pdf)
 - [ ] INCREMENTAL LEARNING IN DEEP CONVOLUTIONAL NEURAL NETWORKS USING PARTIAL NETWORK SHARING (https://arxiv.org/pdf/1712.02719.pdf)
+- [ ] Curriculum Learning for Cumulative Return Maximization (https://arxiv.org/abs/1906.06178)
 
 Section 6) Sparse-rewards
 ----
