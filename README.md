@@ -174,7 +174,8 @@ TODO
 - [ ] Tree-CNN: A Hierarchical Deep Convolutional Neural Network for Incremental Learning (https://arxiv.org/pdf/1802.05800.pdf)
 - [ ] INCREMENTAL LEARNING IN DEEP CONVOLUTIONAL NEURAL NETWORKS USING PARTIAL NETWORK SHARING (https://arxiv.org/pdf/1712.02719.pdf)
 - [ ] Curriculum Learning for Cumulative Return Maximization (https://arxiv.org/abs/1906.06178)
-- [ ] Continuation Methods and Curriculum Learnong, page 318, Deep Learning book by Goodfellow et al
+- [ ] Continuation Methods and Curriculum Learnong, page 318, Deep Learning book by Goodfellow et al.
+- [ ] A Theoretical Analysis of Optimization by Gaussian Continuation (http://people.csail.mit.edu/hmobahi/pubs/aaai_2015.pdf)
 
 Section 6) Sparse-rewards
 ----
